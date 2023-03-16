@@ -1,0 +1,3 @@
+C:/Users/Maksim/CLionProjects/oc22/cmake-build-debug/CMakeFiles/oc9.dir
+C:/Users/Maksim/CLionProjects/oc22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maksim/CLionProjects/oc22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

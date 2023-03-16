@@ -1,0 +1,3 @@
+C:/Users/Maksim/CLionProjects/oc8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Maksim/CLionProjects/oc8/cmake-build-debug/CMakeFiles/oc8.dir
+C:/Users/Maksim/CLionProjects/oc8/cmake-build-debug/CMakeFiles/edit_cache.dir

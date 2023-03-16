@@ -1,0 +1,3 @@
+C:/Users/Maksim/CLionProjects/oc4/cmake-build-debug/CMakeFiles/oc4.dir
+C:/Users/Maksim/CLionProjects/oc4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maksim/CLionProjects/oc4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
